@@ -1,8 +1,5 @@
 [tool.poetry]
 name = "matrix-loading"
-version = "1.0.0"
-description = "Loading programs for the Matrix"
-authors = ["Khalil <khalil@student.1337.ma>"]
 package-mode = false
 
 [tool.poetry.dependencies]
